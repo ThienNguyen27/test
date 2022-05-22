@@ -1,0 +1,1 @@
+print("daddy is gay")
