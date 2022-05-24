@@ -1,1 +1,1 @@
-print("daddy and nibba are not gay")
+print("daddy and nibba are gay")
